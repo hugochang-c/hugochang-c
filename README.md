@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-Hi there! 👋 I'm [Your Name], a passionate developer, lifelong learner, and enthusiast in [Your Specialization, e.g., AI, Web Development, etc.].
+Hi there! 👋 I'm Hugo, a junior developer, lifelong learner, and enthusiast in AI, AWS, APP etc.
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=brightgreen)  
 ![GitHub Followers](https://img.shields.io/github/followers/YourGitHubUsername?style=social)  
@@ -63,4 +63,4 @@ Hi there! 👋 I'm [Your Name], a passionate developer, lifelong learner, and en
 
 ---
 
-![Profile Banner](https://your-image-url.com/banner.png)  
+![Profile Banner][(https://your-image-url.com/banner.png)  ](https://i.imgur.com/P29vLzy.jpeg)
