@@ -14,7 +14,7 @@ Hi there! 👋 I'm Hugo, a junior developer, lifelong learner, and enthusiast in
 - 💻 Building projects in **[TBC]**  
 - 🌐 Check out my [portfolio website](TBC)  
 - 💬 Ask me about **[Game、BJJ、Magic]**  
-- ⚡ Fun fact: **["I love pour over and learn something."]**
+- ⚡ Fun fact: **["I love pour over coffee and learn something."]**
 
 ---
 
@@ -49,8 +49,8 @@ Hi there! 👋 I'm Hugo, a junior developer, lifelong learner, and enthusiast in
 
 ## 🎯 Goals for 2025
 
-- 🚀 Launch **[Your Project or Goal]**  
-- 📝 Contribute to **[Open Source Project Name]**  
+- 🚀 Launch **new APP**  
+- 📝 Contribute to **Information security**  
 - 🌟 Mentor and help new developers  
 
 ---
