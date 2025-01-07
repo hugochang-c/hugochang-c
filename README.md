@@ -63,4 +63,4 @@ Hi there! 👋 I'm Hugo, a junior developer, lifelong learner, and enthusiast in
 
 ---
 
-![Profile Banner][([https://your-image-url.com/banner.png)  ](https://i.imgur.com/P29vLzy.jpeg](https://i.imgur.com/P29vLzy.jpeg))
+![Profile Banner]((https://i.imgur.com/P29vLzy.jpeg))
