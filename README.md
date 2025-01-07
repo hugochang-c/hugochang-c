@@ -10,11 +10,11 @@ Hi there! 👋 I'm Hugo, a junior developer, lifelong learner, and enthusiast in
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **[Topic or Technology, e.g., React, Python, etc.]**  
-- 💻 Building projects in **[Languages or Frameworks, e.g., JavaScript, Django]**  
-- 🌐 Check out my [portfolio website](https://yourwebsite.com)  
-- 💬 Ask me about **[Topics You Are Comfortable Discussing]**  
-- ⚡ Fun fact: **[Your Fun Fact, e.g., "I love coffee and coding at night."]**
+- 🌱 Currently learning **[Flutter, Python, etc.]**  
+- 💻 Building projects in **[TBC]**  
+- 🌐 Check out my [portfolio website](TBC)  
+- 💬 Ask me about **[Game、BJJ、Magic]**  
+- ⚡ Fun fact: **["I love pour over and learn something."]**
 
 ---
 
